@@ -126,12 +126,19 @@ const aryaWiguna = {
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryaWgna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaWgna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AryaWgna&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AryaWgna&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaWgna&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaWgna&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryaWgna&theme=radical" alt="GitHub Profile Summary" />
 </div>
 
 ---
