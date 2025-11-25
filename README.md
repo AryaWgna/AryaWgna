@@ -126,13 +126,14 @@ const aryaWiguna = {
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AryaWgna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=AryaWgna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AryaWgna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=AryaWgna&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<br>
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AryaWgna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=AryaWgna&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Time" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaWgna&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 ---
@@ -140,15 +141,15 @@ const aryaWiguna = {
 ### 💼 Featured Projects
 
 <div align="center">
-  
-[![Speech-To-Text](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AryaWgna&repo=Speech-To-Text&theme=tokyonight&hide_border=true)](https://github.com/AryaWgna/Speech-To-Text)
-[![Arya-intelligence](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AryaWgna&repo=Arya-intelligence&theme=tokyonight&hide_border=true)](https://github.com/AryaWgna/Arya-intelligence)
 
-[![Dashboard-Framework](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AryaWgna&repo=Dashboard-Framework&theme=tokyonight&hide_border=true)](https://github.com/AryaWgna/Dashboard-Framework)
-[![Calculator-Split](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AryaWgna&repo=Calculator-Split&theme=tokyonight&hide_border=true)](https://github.com/AryaWgna/Calculator-Split)
-
-[![go-restapi-gin](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AryaWgna&repo=go-restapi-gin&theme=tokyonight&hide_border=true)](https://github.com/AryaWgna/go-restapi-gin)
-[![FlutterSchools](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AryaWgna&repo=FlutterSchools&theme=tokyonight&hide_border=true)](https://github.com/AryaWgna/FlutterSchools)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [🎙️ Speech-To-Text](https://github.com/AryaWgna/Speech-To-Text) | Voice Recognition to Text Converter | Python |
+| [🤖 Arya-intelligence](https://github.com/AryaWgna/Arya-intelligence) | AI Flask Application | JavaScript, Flask |
+| [📊 Dashboard-Framework](https://github.com/AryaWgna/Dashboard-Framework) | React and Next.js Dashboard | TypeScript |
+| [💰 Calculator-Split](https://github.com/AryaWgna/Calculator-Split) | Bill Splitting Calculator | Dart, Flutter |
+| [🔌 go-restapi-gin](https://github.com/AryaWgna/go-restapi-gin) | REST API with Gin Framework | Go |
+| [📱 FlutterSchools](https://github.com/AryaWgna/FlutterSchools) | School Management App | Dart, Flutter |
 
 </div>
 
