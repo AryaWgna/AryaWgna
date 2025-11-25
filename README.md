@@ -125,14 +125,18 @@ const aryaWiguna = {
 
 ### 📈 GitHub Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AryaWgna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=AryaWgna&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <a href="https://github.com/AryaWgna">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AryaWgna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="AryaWgna's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaWgna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="AryaWgna's Top Languages" />
+  </a>
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaWgna&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<div align="center">
+  <a href="https://github.com/AryaWgna">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AryaWgna&theme=tokyonight&hide_border=true" alt="AryaWgna's GitHub Streak" />
+  </a>
+</div>
 
 ---
 
