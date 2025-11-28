@@ -149,14 +149,59 @@ const aryaWiguna = {
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [🎙️ Speech-To-Text](https://github.com/AryaWgna/Speech-To-Text) | Voice Recognition to Text Converter | Python |
-| [🤖 Arya-intelligence](https://github.com/AryaWgna/Arya-intelligence) | AI Flask Application | JavaScript, Flask |
-| [📊 Dashboard-Framework](https://github.com/AryaWgna/Dashboard-Framework) | React and Next.js Dashboard | TypeScript |
-| [💰 Calculator-Split](https://github.com/AryaWgna/Calculator-Split) | Bill Splitting Calculator | Dart, Flutter |
-| [🔌 go-restapi-gin](https://github.com/AryaWgna/go-restapi-gin) | REST API with Gin Framework | Go |
-| [📱 FlutterSchools](https://github.com/AryaWgna/FlutterSchools) | School Management App | Dart, Flutter |
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AryaWgna/Speech-To-Text">
+        <h3>🎙️ Speech-To-Text</h3>
+      </a>
+      <p>Voice Recognition to Text Converter</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AryaWgna/Arya-intelligence">
+        <h3>🤖 Arya-intelligence</h3>
+      </a>
+      <p>AI Flask Application</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AryaWgna/Dashboard-Framework">
+        <h3>📊 Dashboard-Framework</h3>
+      </a>
+      <p>React and Next.js Dashboard</p>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AryaWgna/Calculator-Split">
+        <h3>💰 Calculator-Split</h3>
+      </a>
+      <p>Bill Splitting Calculator</p>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/AryaWgna/go-restapi-gin">
+        <h3>🔌 go-restapi-gin</h3>
+      </a>
+      <p>REST API with Gin Framework</p>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/AryaWgna/FlutterSchools">
+        <h3>📱 FlutterSchools</h3>
+      </a>
+      <p>School Management App</p>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
