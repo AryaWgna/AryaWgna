@@ -36,7 +36,7 @@ const aryaWiguna = {
         design: ["Figma", "Photoshop", "Blender"]
     },
     blog: "aryawgnablogaddress.blogspot.com",
-    funFact: "I think I am introvert tapi boong 🤫"
+    funFact: "I think I am introvert JK 🤫"
 };
 ```
 
