@@ -162,7 +162,20 @@ const aryaWiguna = {
 
 ---
 
-### 🐍 Contribution Snake Animation
+### � Certificates
+
+<div align="center">
+
+| **CCNA: Introduction to Networks** | **English for IT 1** | **Operating Systems Basics** |
+|:----------------------------------:|:--------------------:|:----------------------------:|
+| <img src="./Sertifkat/ccna-introduction-to-networks.png" width="300" /> | <img src="./Sertifkat/english-for-it-1%20(1).png" width="300" /> | <img src="./Sertifkat/operating-systems-basics.png" width="300" /> |
+| *Covers networking architecture, models, protocols, and elements.* | *Focuses on terminology and communication skills essential for the IT industry.* | *Fundamentals of operating systems, including management of hardware and software resources.* |
+
+</div>
+
+---
+
+### �🐍 Contribution Snake Animation
 
 <div align="center">
   <picture>
@@ -203,3 +216,4 @@ const aryaWiguna = {
 </p>
 
 </div>
+
