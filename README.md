@@ -18,8 +18,8 @@
 ### 👨‍💻 About Me
 
 <table>
-  <tr>
-    <td valign="top" width="60%">
+<tr>
+<td width="60%">
 
 ```typescript
 const aryaWiguna = {
@@ -40,13 +40,13 @@ const aryaWiguna = {
 };
 ```
 
-    </td>
-    <td valign="center" width="40%">
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,angular,nodejs,php,laravel,python,go,dotnet,flutter,postgres,mysql,mongodb,docker,git,nginx,figma&perline=6" alt="My Skills" />
-      </div>
-    </td>
-  </tr>
+</td>
+<td width="40%">
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,angular,nodejs,php,laravel,python,go,dotnet,flutter,postgres,mysql,mongodb,docker,git,nginx,figma&perline=6" alt="My Skills" />
+</div>
+</td>
+</tr>
 </table>
 
 ### 📊 Current Focus
