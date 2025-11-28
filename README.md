@@ -36,7 +36,7 @@ const aryaWiguna = {
         design: ["Figma", "Photoshop", "Blender"]
     },
     blog: "aryawgnablogaddress.blogspot.com",
-    funFact: "I think I am introvert 🤫"
+    funFact: "I think I am introvert tapi boong 🤫"
 };
 ```
 
@@ -44,9 +44,10 @@ const aryaWiguna = {
 <td width="40%">
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Gif" />
-<br/>
+<p><i>💻 Building the future, one line of code at a time.</i></p>
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,angular,nodejs,php,laravel,python,go,dotnet,flutter,postgres,mysql,mongodb,docker,git,nginx,figma&perline=6" alt="My Skills" />
+<p><i>🛠️ A curated stack of my favorite technologies.</i></p>
 </div>
 </td>
 </tr>
