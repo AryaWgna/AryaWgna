@@ -43,7 +43,7 @@ const aryaWiguna = {
     </td>
     <td valign="center" width="40%">
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Gif" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,angular,nodejs,php,laravel,python,go,dotnet,flutter,postgres,mysql,mongodb,docker,git,nginx,figma&perline=6" alt="My Skills" />
       </div>
     </td>
   </tr>
