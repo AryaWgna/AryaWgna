@@ -17,6 +17,10 @@
 
 ### 👨‍💻 About Me
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
 ```typescript
 const aryaWiguna = {
     location: "Indonesia 🇮🇩",
@@ -35,6 +39,15 @@ const aryaWiguna = {
     funFact: "I think I am introvert 🤫"
 };
 ```
+
+    </td>
+    <td valign="center" width="40%">
+      <div align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ### 📊 Current Focus
 
@@ -126,21 +139,21 @@ const aryaWiguna = {
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AryaWgna&theme=radical" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AryaWgna&theme=radical&utcOffset=7" alt="Productive Time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AryaWgna&theme=tokyonight" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AryaWgna&theme=tokyonight&utcOffset=7" alt="Productive Time" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AryaWgna&theme=radical" alt="Repos Per Language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AryaWgna&theme=radical" alt="Most Commit Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AryaWgna&theme=tokyonight" alt="Repos Per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AryaWgna&theme=tokyonight" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryaWgna&theme=radical" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AryaWgna&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryaWgna&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AryaWgna&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
