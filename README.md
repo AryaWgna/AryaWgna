@@ -42,10 +42,7 @@
 
 <br/>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />
-  About Me
-</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <br/>
 
@@ -79,13 +76,13 @@ const AryaWiguna = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" /> &nbsp; **Building** scalable web applications & cloud solutions
+🔭 &nbsp; **Building** scalable web applications & cloud solutions
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> &nbsp; **Learning** Laravel, PostgreSQL & System Design
+📚 &nbsp; **Learning** Laravel, PostgreSQL & System Design
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> &nbsp; **Goals 2026** - Launch SaaS, Master K8s
+🚀 &nbsp; **Goals 2026** - Launch SaaS, Master K8s
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="20" height="20" /> &nbsp; **Fun Fact** - Coffee powered night owl 🦉
+☕ &nbsp; **Fun Fact** - Coffee powered night owl 🦉
 
 <br/><br/>
 
@@ -116,10 +113,7 @@ const AryaWiguna = {
 
 <br/>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" />
-  Tech Stack
-</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <br/>
 
@@ -158,22 +152,19 @@ const AryaWiguna = {
 
 <br/>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" />
-  GitHub Statistics
-</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AryaWgna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats-eight-delta.vercel.app/?user=AryaWgna&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=6e7681" alt="Streak Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AryaWgna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=AryaWgna&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=6e7681" alt="Streak Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AryaWgna&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaWgna&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -188,7 +179,7 @@ const AryaWiguna = {
 <!-- TROPHIES -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=AryaWgna&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=AryaWgna&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
   </a>
 </div>
 
@@ -224,10 +215,7 @@ const AryaWiguna = {
 
 <br/>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" height="30" />
-  Certifications
-</h2>
+<h2 align="center">🏆 Certifications</h2>
 
 <br/>
 
@@ -282,10 +270,7 @@ const AryaWiguna = {
 
 <br/>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30" />
-  Contribution Snake
-</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <br/>
 
@@ -308,10 +293,7 @@ const AryaWiguna = {
 
 <br/>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" alt="Headphone" width="30" height="30" />
-  Now Playing
-</h2>
+<h2 align="center">🎧 Now Playing</h2>
 
 <br/>
 
@@ -332,10 +314,7 @@ const AryaWiguna = {
 
 <br/>
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="30" height="30" />
-  Support My Work
-</h2>
+<h2 align="center">☕ Support My Work</h2>
 
 <br/>
 
